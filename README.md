@@ -1,6 +1,6 @@
 # C-Project-OpenU-AssemblerMachine
 Assembler machine
-Semester 2023b - Final Project - Grade 100.
+Semester 2023b - Final Project.
 Description
 Assembler machine , convert assembly code/file to 16 base code.
 
@@ -19,3 +19,6 @@ Reading and Creating File
 MakeFile
 Screenshots
 Test file (input)
+
+Project instructions:
+[C Project instructions.pdf](https://github.com/tehilakiper/C-Project-OpenU-AssemblerMachine/files/12662341/C.Project.instructions.pdf)
