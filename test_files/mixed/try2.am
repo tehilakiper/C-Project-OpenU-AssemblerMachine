@@ -1,0 +1,17 @@
+;this file will not include errors
+   prn -9
+clr A
+C: .data 5, 6   , 343   ,1,-47,2       , 98        
+   cmp           D,@r2
+bne  D 
+    .extern D
+                 mov             21   ,       @r4  
+not @r8
+red C
+A: .string "brgbrtb 56@`dvAS  "  
+cmp B  ,        -3
+  sub B,r2
+.entry B
+stop
+cmp B  ,        -3
+  sub B,r2
