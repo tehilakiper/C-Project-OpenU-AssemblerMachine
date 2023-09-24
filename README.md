@@ -1,6 +1,7 @@
 # C-Project-OpenU-AssemblerMachine
 Assembler machine
 Semester 2023b - Final Project.
+Grade: 98%
 Description
 Assembler machine , convert assembly code/file to 16 base code.
 
@@ -17,7 +18,6 @@ Pointers
 Dynamic Memory Allocation
 Reading and Creating File
 MakeFile
-Screenshots
 Test file (input)
 
 Project instructions:
